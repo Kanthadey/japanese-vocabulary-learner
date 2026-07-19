@@ -1,0 +1,6 @@
+{
+  "name": "Japanese Vocabulary Learner",
+  "description": "A modern spaced repetition system (SRS) application to learn Japanese vocabulary and track learning progress based on Minna no Nihongo N5 and N4 syllabus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
